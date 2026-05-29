@@ -111,6 +111,16 @@ Identifica la comunidad autónoma con la tasa de crecimiento anual más fuerte.
 * Incorporar almacenamiento tipo Data Lake para escalabilidad futura
 
 
+## Vista Previa del Proyecto 
+
+### Vista General del Pipeline en Databricks 
+
+![Vista General del Pipeline](images/databricks_pipeline_overview.png) 
+
+### Ejemplo de KPI – Top 5 de Participación de Ventas 
+
+![KPI Top 5](images/kpi_top5_sales_participation.png)
+
 ------
 
 # 🇺🇸 English Version
@@ -213,3 +223,13 @@ Identifies the autonomous community with the strongest annual growth rate.
 - Add more historical years for better trend analysis
 - Integrate additional datasets such as inflation and population
 - Automate the pipeline execution
+
+## Project Preview 
+
+### Databricks Pipeline Overview 
+
+![Pipeline Overview](images/databricks_pipeline_overview.png) 
+
+### KPI Example – Top 5 Sales Participation 
+
+![KPI Top 5](images/kpi_top5_sales_participation.png)
